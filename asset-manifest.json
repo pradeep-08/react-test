@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pradeep-08.github.io/react-test/static/css/main.f855e6bc.css",
+    "main.js": "/pradeep-08.github.io/react-test/static/js/main.c38020b5.js",
+    "static/js/787.272af0be.chunk.js": "/pradeep-08.github.io/react-test/static/js/787.272af0be.chunk.js",
+    "static/media/logo.svg": "/pradeep-08.github.io/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pradeep-08.github.io/react-test/index.html",
+    "main.f855e6bc.css.map": "/pradeep-08.github.io/react-test/static/css/main.f855e6bc.css.map",
+    "main.c38020b5.js.map": "/pradeep-08.github.io/react-test/static/js/main.c38020b5.js.map",
+    "787.272af0be.chunk.js.map": "/pradeep-08.github.io/react-test/static/js/787.272af0be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c38020b5.js"
+  ]
+}
